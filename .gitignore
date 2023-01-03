@@ -20,8 +20,6 @@
 *.rar
 
 #private
-*.classpath
-*.project
 *.settings
 *.properties
 target
